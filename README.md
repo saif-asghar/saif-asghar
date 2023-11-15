@@ -4,7 +4,7 @@
 I am a seasoned Full-Stack Developer with over 7 years of experience, specializing in TypeScript, React, Redux, React Native, Angular, Node.js, MongoDB, AWS, HTML, CSS, Bootstrap, and Canvas. My passion lies in transforming visions into efficient, high-quality code, and every line of code matters to me.
 
 <div style="display: flex; align-items: center;">
-  <div width="50%">
+  <div>
     **Languages:** TypeScript, JavaScript (ES6+)<br>
     **Frontend:** 
     <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" alt="React"/>
@@ -32,7 +32,7 @@ I am a seasoned Full-Stack Developer with over 7 years of experience, specializi
     <br>
     **Methodologies:** Agile, Scrum
   </div>
-  <div style="width: 50%">
+  <div>
     <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Gif" width="100%">
   </div>
 </div>
