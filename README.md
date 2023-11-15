@@ -9,28 +9,28 @@ I am a seasoned Full-Stack Developer with over 7 years of experience, specializi
   <p width="50%">
     **Languages:** TypeScript, JavaScript (ES6+)<br>
     **Frontend:** 
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" alt="React" width="20" height="20"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/angular.svg" alt="Angular" width="20" height="20"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" alt="React"/>
+    <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular"/>
     <br>
     **Backend:** 
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/node-dot-js.svg" alt="Node.js" width="20" height="20"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js"/>
     <br>
     **Database:** 
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg" alt="MongoDB" width="20" height="20"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
     <br>
     **Cloud:** 
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/amazonaws.svg" alt="AWS" width="20" height="20"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS"/>
     <br>
     **Web Technologies:** 
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" alt="HTML5" width="20" height="20"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" alt="CSS3" width="20" height="20"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/bootstrap.svg" alt="Bootstrap" width="20" height="20"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/canvas.svg" alt="Canvas" width="20" height="20"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+    <img src="https://img.shields.io/badge/Canvas-F18E33?logo=html5&logoColor=white" alt="Canvas"/>
     <br>
     **Development Tools:** 
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" alt="Git" width="20" height="20"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/webpack.svg" alt="Webpack" width="20" height="20"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/babel.svg" alt="Babel" width="20" height="20"/>
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black" alt="Webpack"/>
+    <img src="https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=black" alt="Babel"/>
     <br>
     **Methodologies:** Agile, Scrum
   </p>
