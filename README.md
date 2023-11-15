@@ -1,3 +1,5 @@
+# Saif Asghar's Developer Portfolio
+
 ## 🚀 About Me
 
 I am a seasoned Full-Stack Developer with over 7 years of experience, specializing in TypeScript, React, Redux, React Native, Angular, Node.js, MongoDB, AWS, HTML, CSS, Bootstrap, and Canvas. My passion lies in transforming visions into efficient, high-quality code, and every line of code matters to me.
@@ -7,28 +9,28 @@ I am a seasoned Full-Stack Developer with over 7 years of experience, specializi
   <p width="50%">
     **Languages:** TypeScript, JavaScript (ES6+)<br>
     **Frontend:** 
-    <img src="https://camo.githubusercontent.com/7f611eb7fa49f2b2cf006f5164f75e1b4fafd3d967bfe0b00b717d3a10ebd44d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f527562792d4343333432443f7374796c653d666f722d7468652d6261646765266c6f676f3d72756279266c6f676f436f6c6f723d7768697465" alt="React"/>
-    <img src="https://camo.githubusercontent.com/7f611eb7fa49f2b2cf006f5164f75e1b4fafd3d967bfe0b00b717d3a10ebd44d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e67756c61722d3734313734363f7374796c653d666f722d7468652d6261646765266c6f676f3d616e67756c6172" alt="Angular"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" alt="React"/>
+    <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular"/>
     <br>
     **Backend:** 
-    <img src="https://camo.githubusercontent.com/7f611eb7fa49f2b2cf006f5164f75e1b4fafd3d967bfe0b00b717d3a10ebd44d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f6c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js"/>
     <br>
     **Database:** 
-    <img src="https://camo.githubusercontent.com/7f611eb7fa49f2b2cf006f5164f75e1b4fafd3d967bfe0b00b717d3a10ebd44d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3437413234383f6c6f676f3d6d6f6e676f4442" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
     <br>
     **Cloud:** 
-    <img src="https://camo.githubusercontent.com/7f611eb7fa49f2b2cf006f5164f75e1b4fafd3d967bfe0b00b717d3a10ebd44d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f414d5a4f4e2d3233324633453f6c6f676f3d414d5a4f4e266c6f676f436f6c6f723d7768697465" alt="AWS"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS"/>
     <br>
     **Web Technologies:** 
-    <img src="https://camo.githubusercontent.com/7f611eb7fa49f2b2cf006f5164f75e1b4fafd3d967bfe0b00b717d3a10ebd44d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f6c6f676f3d48544d4c35" alt="HTML5"/>
-    <img src="https://camo.githubusercontent.com/7f611eb7fa49f2b2cf006f5164f75e1b4fafd3d967bfe0b00b717d3a10ebd44d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f6c6f676f3d43535333266c6f676f436f6c6f723d7768697465" alt="CSS3"/>
-    <img src="https://camo.githubusercontent.com/7f611eb7fa49f2b2cf006f5164f75e1b4fafd3d967bfe0b00b717d3a10ebd44d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d56332e332e352d3446424633463f6c6f676f3d626f6f747374726170" alt="Bootstrap"/>
-    <img src="https://camo.githubusercontent.com/7f611eb7fa49f2b2cf006f5164f75e1b4fafd3d967bfe0b00b717d3a10ebd44d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f43414e5641532d4631384533333f6c6f676f3d43414e564153" alt="Canvas"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+    <img src="https://img.shields.io/badge/Canvas-F18E33?logo=html5&logoColor=white" alt="Canvas"/>
     <br>
     **Development Tools:** 
-    <img src="https://camo.githubusercontent.com/7f611eb7fa49f2b2cf006f5164f75e1b4fafd3d967bfe0b00b717d3a10ebd44d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4641303530323f6c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt="Git"/>
-    <img src="https://camo.githubusercontent.com/7f611eb7fa49f2b2cf006f5164f75e1b4fafd3d967bfe0b00b717d3a10ebd44d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5765627061636b2d3844443646393f6c6f676f3d7765627061636b" alt="Webpack"/>
-    <img src="https://camo.githubusercontent.com/7f611eb7fa49f2b2cf006f5164f75e1b4fafd3d967bfe0b00b717d3a10ebd44d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426162656c2d4639444333453f6c6f676f3d626162656c266c6f676f436f6c6f723d7768697465" alt="Babel"/>
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black" alt="Webpack"/>
+    <img src="https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=black" alt="Babel"/>
     <br>
     **Methodologies:** Agile, Scrum
   </p>
