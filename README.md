@@ -4,18 +4,37 @@
 
 I am a seasoned Full-Stack Developer with over 7 years of experience, specializing in TypeScript, React, Redux, React Native, Angular, Node.js, MongoDB, AWS, HTML, CSS, Bootstrap, and Canvas. My passion lies in transforming visions into efficient, high-quality code, and every line of code matters to me.
 
-![Coding Gif](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-
-## ☆☆☆ Technical Proficiencies ☆☆☆
-
-- **Languages:** TypeScript, JavaScript (ES6+)
-- **Frontend:** React, React Native, Angular, Redux (State Management)
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, Mongoose
-- **Cloud:** AWS (Amazon Web Services)
-- **Web Technologies:** HTML5, CSS3, Bootstrap, Canvas for Graphics Rendering
-- **Development Tools:** Git, Webpack, Babel
-- **Methodologies:** Agile, Scrum
+<div style="display: flex; align-items: center;">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Gif" width="50%">
+  <p width="50%">
+    **Languages:** TypeScript, JavaScript (ES6+)<br>
+    **Frontend:** 
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" alt="React" width="20" height="20"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/angular.svg" alt="Angular" width="20" height="20"/>
+    <br>
+    **Backend:** 
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/node-dot-js.svg" alt="Node.js" width="20" height="20"/>
+    <br>
+    **Database:** 
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg" alt="MongoDB" width="20" height="20"/>
+    <br>
+    **Cloud:** 
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/amazonaws.svg" alt="AWS" width="20" height="20"/>
+    <br>
+    **Web Technologies:** 
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" alt="HTML5" width="20" height="20"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" alt="CSS3" width="20" height="20"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/bootstrap.svg" alt="Bootstrap" width="20" height="20"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/canvas.svg" alt="Canvas" width="20" height="20"/>
+    <br>
+    **Development Tools:** 
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" alt="Git" width="20" height="20"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/webpack.svg" alt="Webpack" width="20" height="20"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/babel.svg" alt="Babel" width="20" height="20"/>
+    <br>
+    **Methodologies:** Agile, Scrum
+  </p>
+</div>
 
 ## ☆☆☆ Key Capabilities ☆☆☆
 
@@ -28,13 +47,6 @@ I am a seasoned Full-Stack Developer with over 7 years of experience, specializi
 - Cloud Infrastructure Deployment (AWS)
 - Real-time Application Development
 - Responsive and Cross-Platform UI/UX
-- HTML, CSS, Bootstrap for Stylish Frontends
-- Canvas Integration for Graphics Rendering
-- Browser Extension Development (Google Chrome)
-- Continuous Integration and Deployment (CI/CD)
-- Scalable and Efficient Code Architecture
-
-![React Logo Gif](https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif)
 
 ## 'Turning Vision into Code, Every Line Matters'
 
