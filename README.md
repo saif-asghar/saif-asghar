@@ -32,9 +32,7 @@ I am a seasoned Full-Stack Developer with over 7 years of experience, specializi
     <br>
     <strong>Methodologies:</strong> Agile, Scrum
   </div>
-  <div style="width: 50%;">
-    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Gif" width="100%">
-  </div>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Gif" width="50%">
 </div>
 
 
