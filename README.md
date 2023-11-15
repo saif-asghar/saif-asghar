@@ -4,19 +4,18 @@
 
 I am a seasoned Full-Stack Developer with over 7 years of experience, specializing in TypeScript, React, Redux, React Native, Angular, Node.js, MongoDB, AWS, HTML, CSS, Bootstrap, and Canvas. My passion lies in transforming visions into efficient, high-quality code, and every line of code matters to me.
 
-<div style="display: flex; align-items: center;">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Gif" width="50%">
-  <p width="50%">
-    **Languages:** TypeScript, JavaScript (ES6+)<br>
-    **Frontend:** React, React Native, Angular, Redux (State Management)<br>
-    **Backend:** Node.js, Express.js<br>
-    **Database:** MongoDB, Mongoose<br>
-    **Cloud:** AWS (Amazon Web Services)<br>
-    **Web Technologies:** HTML5, CSS3, Bootstrap, Canvas for Graphics Rendering<br>
-    **Development Tools:** Git, Webpack, Babel<br>
-    **Methodologies:** Agile, Scrum
-  </p>
-</div>
+![Coding Gif](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
+## ☆☆☆ Technical Proficiencies ☆☆☆
+
+- **Languages:** TypeScript, JavaScript (ES6+)
+- **Frontend:** React, React Native, Angular, Redux (State Management)
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, Mongoose
+- **Cloud:** AWS (Amazon Web Services)
+- **Web Technologies:** HTML5, CSS3, Bootstrap, Canvas for Graphics Rendering
+- **Development Tools:** Git, Webpack, Babel
+- **Methodologies:** Agile, Scrum
 
 ## ☆☆☆ Key Capabilities ☆☆☆
 
