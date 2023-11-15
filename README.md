@@ -38,6 +38,7 @@ I am a seasoned Full-Stack Developer with over 7 years of experience, specializi
 </div>
 
 
+
 ## ☆☆☆ Key Capabilities ☆☆☆
 
 - Full-Stack Development Expertise
