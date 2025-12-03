@@ -1,75 +1,60 @@
-
 ## 🚀 About Me
 
-I am a seasoned Full-Stack Developer with over 7 years of experience, specializing in TypeScript, React, Redux, React Native, Angular, Node.js, MongoDB, AWS, HTML, CSS, Bootstrap, and Canvas. My passion lies in transforming visions into efficient, high-quality code, and every line of code matters to me.
+I am a seasoned **Full-Stack Developer** with 4+ years of experience in building scalable Web and Mobile applications. My expertise spans **TypeScript, React, Redux, React Native, Angular, Node.js, Laravel, MongoDB**, and **LAMP stack** deployments. I focus on delivering clean, maintainable code and transforming ideas into fully functional products.
 
-<div style="display: flex; align-items: center; width: 100%;">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Gif" width="50%">
-  <div style="width: 50%;">
-    <strong>Languages:</strong> TypeScript, JavaScript (ES6+)<br>
-    <strong>Frontend:</strong> 
-    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" alt="React"/>
-    <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular"/>
-    <br>
-    <strong>Backend:</strong> 
-    <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js"/>
-    <br>
-    <strong>Database:</strong> 
-    <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
-    <br>
-    <strong>Cloud:</strong> 
-    <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS"/>
-    <br>
-    <strong>Web Technologies:</strong> 
-    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-    <img src="https://img.shields.io/badge/Canvas-F18E33?logo=html5&logoColor=white" alt="Canvas"/>
-    <br>
-    <strong>Development Tools:</strong> 
-    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black" alt="Webpack"/>
-    <img src="https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=black" alt="Babel"/>
-    <br>
-    <strong>Methodologies:</strong> Agile, Scrum
-  </div>
-</div>
+---
 
+### 🧠 Tech Stack & Skills
 
+**Languages:**  
+TypeScript, JavaScript (ES6+), PHP
 
-## ☆☆☆ Key Capabilities ☆☆☆
+**Frontend:**  
+React, Redux, React Native, Angular, Bootstrap, HTML5, CSS3, Canvas
 
-- Full-Stack Development Expertise
-- End-to-End Project Management
-- Mobile Application Development (React Native)
-- State-of-the-Art State Management with Redux
-- Server-Side Implementation (Node.js)
-- Database Design and Management (MongoDB)
-- Cloud Infrastructure Deployment (AWS)
-- Real-time Application Development
-- Responsive and Cross-Platform UI/UX
+**Backend:**  
+Node.js, Express.js, Laravel (PHP), REST APIs
 
-## 'Turning Vision into Code, Every Line Matters'
+**Databases:**  
+MongoDB, MySQL
 
-Expect:
+**Infrastructure / DevOps:**  
+AWS (EC2, S3), LAMP Stack (Linux, Apache, MySQL, PHP), NGINX, PM2
 
-- Seamless Full-Stack Development
-- Expertise in TypeScript and Modern JavaScript
-- Mobile App Development with React Native
-- State Management Excellence with Redux
-- Mastery in Frontend Frameworks (React, Angular)
-- Proficient Server-Side Handling (Node.js)
-- Database Design and Management (MongoDB)
-- Cloud Infrastructure Deployment (AWS)
-- HTML, CSS, Bootstrap for Stylish Frontends
-- Canvas Integration for Graphics Rendering
-- Browser Extension Development (Google Chrome)
-- Agile Project Management
-- Timely Delivery and Regular Updates
-- Dedication to Your Project's Success
+**Version Control & Tools:**  
+Git, GitHub, Webpack, Babel, Postman, VS Code
 
-![GitHub Octocat Gif](https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif)
+---
 
-## 📫 Let's Connect!
+### ⭐ Key Capabilities
 
-- [Email](saifurrehman18889@gmail.com)
+- Full-Stack Web & Mobile App Development
+- LAMP Stack Setup & Deployment
+- Backend Architecture & API Development (Node.js / Laravel)
+- Database Modeling & Management (MongoDB / MySQL)
+- Real-Time & Event-Driven App Development
+- Responsive UI/UX Design
+- AWS Deployment & Server Optimization
+- 3rd-Party Integrations & Payment Gateways
+- Browser Extension Development (Chrome)
+
+---
+
+> **"Turning Vision into Code — Every Line Matters."** ✨
+
+What You Can Expect:
+
+- Modern, scalable & high-performance applications  
+- Great communication & on-time delivery  
+- Clean and maintainable source code  
+- Dedication to project success  
+
+---
+
+### 📬 Let’s Connect
+
+📧 Email: **saifurrehman18889@gmail.com**
+
+---
+
+![Coding Gif](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
