@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-I am a seasoned Full-Stack Developer with over 7 years of experience, specializing in TypeScript, React, Redux, React Native, Angular, Node.js, Laravel, MongoDB, MySQL, AWS, HTML, CSS, Bootstrap, and Canvas. My passion lies in transforming visions into efficient, high-quality code — every line matters.
+I am a seasoned Full-Stack Developer with over 4 years of experience, specializing in TypeScript, React, Redux, React Native, Angular, Node.js, Laravel, MongoDB, MySQL, AWS, HTML, CSS, Bootstrap, and Canvas. My passion lies in transforming visions into efficient, high-quality code — every line matters.
 
 <div style="display: flex; align-items: center; width: 100%;">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Gif" width="50%">
